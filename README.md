@@ -1,6 +1,6 @@
-# Test Page
+# TIPE Iari Metayer-Mendoza
 
-## Ça marche ! 🎉
+## Sujet probable : comment régler le probleme de dérive de position et bruit de signal GPS.
 
-Si tu vois ce message, c'est que ton Markdown fonctionne correctement. ouais
+
 
