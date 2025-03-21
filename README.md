@@ -12,4 +12,4 @@ Idée : coder moi même un filtre de Kalman sur phyton afin d'améliorer les sig
 
 Découverte du SNR (Signal-to-noise ratio) qui est un outil qui permet de mésurée la qualité d'un signal en faisant le rapport de la puissance du signal par rapport au bruit. Une très bonne thèse [ici](https://theses.hal.science/tel-01589215v1/file/BOURKANE_Abderrahim.pdf) sur ce sujet. Je pourrais faire un algo qui calcul le SNR de chaque signal brut que j'ai afin de calibrer mon filtre de Kalman en conséquence.
 
-Phénomène Doppler à développer, ça parait être un outil intéressant pour l'amelioration du signal GPS. Toujours expliqué dans la thèse.
+Phénomène Doppler à développer, ça parait être un outil intéressant pour l'amelioration du signal GPS. C'est toujours expliqué dans la thèse.
