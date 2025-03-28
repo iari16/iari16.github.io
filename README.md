@@ -15,4 +15,4 @@ Découverte du SNR (Signal-to-noise ratio) qui est un outil qui permet de mésur
 Phénomène Doppler à développer, ça parait être un outil intéressant pour l'amelioration du signal GPS. C'est toujours expliqué dans la thèse.
 
 **28/03/25 :** 
-Apparament la page github mentionné plus haut a l'air d'avoir été supprimé, mais normalement toutes les informations qui y était écrite sont sur la page wikipédia du filtre de kalman <a href="https://fr.wikipedia.org/wiki/Filtre_de_Kalman" target="_blank" rel="noopener noreferrer">ici</a>.
+Apparemment, la page GitHub mentionnée plus haut a l’air d’avoir été supprimée, mais normalement toutes les informations qui y étaient écrites se trouvent sur la page Wikipédia du filtre de Kalman. <a href="https://fr.wikipedia.org/wiki/Filtre_de_Kalman" target="_blank" rel="noopener noreferrer">ici</a>.
